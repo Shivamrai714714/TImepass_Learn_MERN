@@ -1,1 +1,8 @@
+<<<<<<< Updated upstream
 Hi This is the file from the new-branch " and i have made some changes in it"
+=======
+Hi This is the file from the new-branch
+
+
+This is changes to perform stash operation.
+>>>>>>> Stashed changes
